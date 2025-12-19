@@ -3,7 +3,8 @@
 A simple and user-friendly **Currency Converter** application that allows users to convert amounts between different currencies using real-time exchange rates.
 
 This project demonstrates my abilities for the following:-
--API integration
+
+- API integration
 - Clean Python logic
 - Basic error handling
 
@@ -45,17 +46,22 @@ git clone https://github.com/MohammedAwan/Currency-Converter.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
+```bash
 cd Currency-Converter
+```
 
 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 4️⃣ Run the Application
+```bash
 streamlit run .py
-
+```
 📸 Screenshots
 
-!(screenshots/pic1.png)
-!(screenshots/pic2.png)
+![](screenshots/pic1.png)
+![](screenshots/pic2.png)
 
 
