@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run .py
 ```
-📸 Screenshots
+## 📸 Screenshots
 
 ![](screenshots/pic1.png)
 ![](screenshots/pic2.png)
